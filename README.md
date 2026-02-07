@@ -15,6 +15,11 @@ Drill-through tables for detailed product-level sales analysis
 
 User-friendly layout with clear visual hierarchy
 
+# Repository Structure
+Date:
+Dashboard:
+Images:
+
 # Visualizations
 
 Top Selling Products: Displays the products generating the highest sales revenue.
