@@ -20,7 +20,8 @@ Data: https://github.com/pandurangkale8166/Pizza-Sales-Dashboard/blob/main/pizza
 
 Dashboard: https://github.com/pandurangkale8166/Pizza-Sales-Dashboard/blob/main/Dashboard.pbix
 
-Images: <img width="1204" height="655" alt="Screenshot 2026-02-07 051454" src="https://github.com/user-attachments/assets/c485f725-916c-4faf-9580-78d67d123bf6" />
+Images: <img width="1207" height="670" alt="Screenshot 2026-02-07 062352" src="https://github.com/user-attachments/assets/4787e53b-e2c7-4e75-8eab-67a9b1b8a2a5" />
+
 
 
 # Visualizations
