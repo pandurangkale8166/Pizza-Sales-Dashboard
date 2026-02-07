@@ -16,7 +16,7 @@ Drill-through tables for detailed product-level sales analysis
 User-friendly layout with clear visual hierarchy
 
 # Repository Structure
-Date:
+Date: <a href="https://github.com/pandurangkale8166/Pizza-Sales-Dashboard/blob/main/pizza_types.csv"</a>
 Dashboard:
 Images:
 
