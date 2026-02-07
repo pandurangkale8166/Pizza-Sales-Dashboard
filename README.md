@@ -17,7 +17,9 @@ User-friendly layout with clear visual hierarchy
 
 # Repository Structure
 Data: https://github.com/pandurangkale8166/Pizza-Sales-Dashboard/blob/main/pizza_types.csv"
-Dashboard:
+
+Dashboard: https://github.com/pandurangkale8166/Pizza-Sales-Dashboard/blob/main/Dashboard.pbix
+
 Images:
 
 # Visualizations
